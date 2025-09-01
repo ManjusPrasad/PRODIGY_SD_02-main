@@ -33,9 +33,9 @@ This mini-game challenges users to guess a randomly generated number between 1 a
 
 ##  Developed By
 
-**Vaishnavi Lalan**
+**ManjuPrasad**
 💼 Software Development Intern at Prodigy Infotech  
-🔗  [LinkedIn](https://www.linkedin.com/in/vaishnavi-lalan-270419310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVwT8INsySK2z6a6jBPPJ1A%3D%3D) | [GitHub Profile](https://github.com/VaishnaviLalan106)
+🔗  [LinkedIn](https://www.linkedin.com/in/manju-prasad-86b729377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub Profile](https://github.com/ManjusPrasad)
 
 ---
 
